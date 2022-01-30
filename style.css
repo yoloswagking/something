@@ -1,0 +1,56 @@
+body{
+    background-color: greenyellow;
+}
+
+
+
+
+
+h1{
+    color:brown
+    background-color: rgb(12, 56, 77);
+    
+}
+p{
+    color: crimson;
+}
+
+
+h2{
+    color: cornflowerblue;
+}
+
+
+h3{
+    color: mintcream;
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+ul li{
+    color: aquamarine;
+}
+
+
+ol il{
+    color: darkolivegreen;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: darkslateblue;
+}
+
+a:hover{
+    font-size: smaller;
+}
+
+img{
+    border-radius: 90px;
+}
